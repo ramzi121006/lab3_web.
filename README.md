@@ -25,7 +25,7 @@ Ordered List digunakan untuk membuat daftar **terurut** (biasanya dengan angka a
 Tambahkan bagian *ordered list* berisi beberapa item di dalamnya.
 
 ![gambar](code1.png)
-![gambar](t 1.png)
+![gambar](t_1.png)
 
 
 ---
