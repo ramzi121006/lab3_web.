@@ -40,7 +40,7 @@ Simbol default-nya berupa lingkaran (*disc*), tetapi bisa diubah menjadi:
 Tambahkan bagian *unordered list* di bawah *ordered list*.
 
 ![gambar](code2.png)
-![gambar](t 2.png)
+![gambar](t_2.png)
 
 ---
 
@@ -49,7 +49,7 @@ Description List menampilkan daftar berisi istilah dan deskripsinya.
 Tambahkan bagian *description list* di bawah *unordered list*.
 
 ![gambar](code3.png)
-![gambar](t 3.png)
+![gambar](t_3.png)
 
 *Tips:* Coba ubah atribut `type` pada list untuk melihat perbedaannya.
 
@@ -62,7 +62,7 @@ Tambahkan tabel sederhana dengan kolom:
 **No**, **Fakultas**, dan **Program Studi**.
 
 ![gambar](code4.png)
-![gambar](t 4.png)
+![gambar](t_4.png)
 
 ---
 
@@ -74,7 +74,7 @@ Gunakan atribut:
 Atur nilai-nilai tersebut agar tabel terlihat lebih rapi.
 
 ![gambar](code5.png)
-![gambar](t 5.png)
+![gambar](t_5.png)
 
 ---
 
@@ -84,7 +84,7 @@ Untuk menggabungkan sel:
 - Gunakan **`colspan`** untuk menggabungkan kolom (horizontal).  
 
 ![gambar](code6.png)
-![gambar](t 6.png)
+![gambar](t_6.png)
 
 ---
 
@@ -98,7 +98,7 @@ Tambahkan elemen berikut:
 - Tombol **Submit**
 
 ![gambar](code7.png)
-![gambar](t 7.png)
+![gambar](t_7.png)
 
 ---
 
@@ -109,7 +109,7 @@ Agar form terlihat lebih menarik:
 - Gunakan warna latar dan teks yang kontras pada tombol.
 
 ![gambar](code8.png)
-![gambar](t 8.png)
+![gambar](t_8.png)
 
 ---
 
@@ -119,6 +119,6 @@ Agar form terlihat lebih menarik:
    - Listbox dengan **multiple selection**
 
 ![gambar](code9.png)
-![gambar](t 9.png)
+![gambar](t_9.png)
 
 ---
