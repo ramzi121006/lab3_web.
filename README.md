@@ -225,27 +225,28 @@
 
   <!-- Dropdown (Pilih Fakultas) -->
             <p>
-                <label for="fakultas">Fakultas</label>
-                <select id="fakultas" name="fakultas">
-                    <option value="">-- Pilih Fakultas --</option>
-                    <option value="teknik">Teknik</option>
-                    <option value="ekonomi">Ekonomi dan Bisnis</option>
-                    <option value="hukum">Hukum</option>
-                    <option value="kedokteran">Kedokteran</option>
-                </select>
-            </p>
+  <label for="negara">Negara</label>
+  <select id="negara" name="negara">
+    <option value="">-- Pilih Negara --</option>
+    <option value="Indonesia">Indonesia</option>
+    <option value="Malaysia">Malaysia</option>
+    <option value="Singapura">Singapura</option>
+    <option value="Thailand">Thailand</option>
+    <option value="Vietnam">Vietnam</option>
+  </select>
+</p>
 
-            <!-- Listbox (Pilih Program Studi) -->
-            <p>
-                <label for="prodi">Program Studi</label>
-                <select id="prodi" name="prodi[]" multiple size="4">
-                    <option value="ti">Teknik Informatika</option>
-                    <option value="ti">Teknik Industri</option>
-                    <option value="tl">Teknik Lingkungan</option>
-                    <option value="ak">Akuntansi</option>
-                    <option value="manajemen">Manajemen</option>
-                </select>
-            </p>
+<!-- Listbox Multiple -->
+<p>
+  <label for="hobi">Hobi</label>
+  <select id="hobi" name="hobi[]" multiple size="5">
+    <option value="Membaca">Membaca</option>
+    <option value="Menulis">Menulis</option>
+    <option value="Olahraga">Olahraga</option>
+    <option value="Musik">Musik</option>
+    <option value="Traveling">Traveling</option>
+  </select>
+</p>
 
 ---
 **Hasil**
