@@ -209,7 +209,7 @@
 
 **Penjelasan perubahan:**
 
-<img width="1021" height="401" alt="t_7" src="https://github.com/user-attachments/assets/ab94c87e-7c2b-42c1-a838-a0f656a333cf" />
+<img width="585" height="393" alt="t_8" src="https://github.com/user-attachments/assets/e4243acd-a879-42c2-9a3e-c910573e86de" />
 
 
 * Menambahkan CSS agar tampilan form lebih rapi.
